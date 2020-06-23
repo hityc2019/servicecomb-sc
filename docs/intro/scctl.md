@@ -3,7 +3,7 @@
 ## scctl
 
 `scctl` enables user to view the list of MicroServices registered in service center(version 1.1.0+).
-You can view all the commands from [here](https://github.com/apache/servicecomb-service-center/blob/master/scctl/pkg/plugin/README.md)
+You can view all the commands from [here](https://github.com/apache/servicecomb-service-center/blob/master/scctl/pkg/plugin)
 
 ### QuickStart Guide
 

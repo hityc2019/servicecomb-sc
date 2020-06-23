@@ -102,7 +102,7 @@ Server       dc-2       10.12.0.5
 Notes: ``go-chassis`` application can run perfectly in the above 2
 architectures. If you are using `java-chassis`_, there are only support
 the service center with the second architecture at the moment. You can
-ref to `heres`_ for more details of the second architecture.
+ref to `here`_ for more details of the second architecture.
 
 Start Server
 ''''''''''''
